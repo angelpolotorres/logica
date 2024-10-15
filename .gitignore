@@ -1,0 +1,78 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# Archivos de PyCharm
+.idea/
+*.iml
+*.iws
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/gradle.xml
+.idea/**/misc.xml
+.idea/modules.xml
+
+# Archivos de configuración de ejecución de PyCharm
+.idea/**/runConfigurations/
+
+# Bytecode de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Configuración de logs y archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema de Mac
+.DS_Store
+
+# Archivos de sistema de Windows
+Thumbs.db
+ehthumbs.db
+
+# Archivos de distribución de Python
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de instalación de paquetes
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de cobertura de pruebas
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+
+# Archivos de caché de pytest
+.cache/
+
+# Archivos de caché de otros IDEs
+*.idea/
+
+# Archivos de lock de sistema de control de versiones
+.lock
